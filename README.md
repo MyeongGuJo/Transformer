@@ -4,6 +4,7 @@
 - heads of MultiHeadAttention = 1
 - \# of encoder layers = 1
 - \# of decoder layers = 1
+- tokenizer = BertTokenizer (vocab_size = 30522)
 
 # Dataset
 
